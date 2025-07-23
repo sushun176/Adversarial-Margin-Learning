@@ -7,7 +7,9 @@ A PyTorch implementation for our paper "Label-Aware Adversarial Margin Learning 
 - torch = 2.1.0
 - numpy = 1.23.5
 - transformers = 4.34.1
+  
 Note: This requirement pertains to the author's experimental environment. The same version may not be necessary for actual use.
+
 ## Preparation
 
 ### Clone
