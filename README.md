@@ -2,7 +2,7 @@
 
 # LAABC: Label-Aware Adversarial Margin Learning via Soft Prompting for Robust Short Text Classification
 
-Official PyTorch implementation of **Label-Aware Adversarial Margin Learning (AML)** for robust short-text classification.
+Official PyTorch implementation of **Label-Aware Adversarial Margin Learning (AML)** for robust short-text classification. which is accepted by Expert Systems with Applications(ESWA) [paper](https://doi.org/10.1016/j.eswa.2026.133946).
 
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
